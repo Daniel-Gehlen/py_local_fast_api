@@ -1,0 +1,9 @@
+{
+  "usuario1": {
+    "tweets": ["tweet1", "tweet2", "tweet3"]
+  },
+  "usuario2": {
+    "tweets": ["tweet4", "tweet5", "tweet6"]
+  }
+
+}
